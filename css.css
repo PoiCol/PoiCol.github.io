@@ -1,0 +1,31 @@
+h1 {
+    color: purple;
+    font-size: 50px;
+}
+body {
+    text-align: center;
+    background: url("55.jpg") no-repeat fixed center;
+    align-items: center;
+}
+
+
+
+table {
+    border: dotted;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    position: relative;
+}
+
+td {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border: dotted;
+}
+
+#counter {
+    color: red;
+    font-size: 70px;
+}
